@@ -1,4 +1,4 @@
-#This is a repository to hold the code associated with the paper "The impact of a wind switch on traveling fronts in a temperature-based model  of fire propagation." The pre-print is available on the ArXiv. 
+This is a repository to hold the code associated with the paper "The impact of a wind switch on traveling fronts in a temperature-based model  of fire propagation." The pre-print is available on the ArXiv. 
 
 There are two Jupyter notebooks to calculate solution trajectories and intersections for intersections of type 1 and 2, as defined in the paper. There is also a Jupyter notebook to calculate the accumulated angle, angular solution trajectories and eigenvalue minimizer for solutions corresponding to type 1 intersections.
 
